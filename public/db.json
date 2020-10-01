@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Jhon",
+      "lastName": "Snow",
+      "gender": "male",
+      "loyalty": "none",
+      "date": "30.09.2020"
+    },
+    {
+      "id": 2,
+      "firstName": "Katya",
+      "lastName": "Snow",
+      "gender": "female",
+      "loyalty": "none",
+      "date": "30.09.2020"
+    },
+    {
+      "id": 3,
+      "firstName": "Alex",
+      "lastName": "Holbi",
+      "gender": "male",
+      "loyalty": "none",
+      "date": "30.09.2020"
+    }
+  ]
+}
